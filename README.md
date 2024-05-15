@@ -8,6 +8,8 @@
 # I, Mô tả chung về trò chơi:
 Bạn phải di chuyển các ô số trên một lưới vuông 4x4. Mục tiêu của trò chơi là kết hợp các ô số cùng giá trị để tạo ra một ô có giá trị là 2048. Mỗi lần bạn di chuyển, tất cả các ô số trên lưới sẽ di chuyển theo hướng bạn chọn, và một ô trống sẽ được tạo ra ở một vị trí ngẫu nhiên trên lưới, có thể chứa một ô số mới.
 
+Trò chơi kết thúc khi các số kín bảng mà không ghép được ô nào nữa.
+
 # II, Các chức năng của trò chơi:
 Dùng bốn nút mũi tên di chuyển để ghép các block.
 
