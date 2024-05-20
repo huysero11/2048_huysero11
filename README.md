@@ -22,4 +22,4 @@ Dùng bốn nút mũi tên di chuyển để ghép các block.
   
 # IV, Hỗ trợ:
 - Edit ảnh
-- Tham khảo thuật của bạn
+- https://lazyfoo.net/tutorials/SDL/
